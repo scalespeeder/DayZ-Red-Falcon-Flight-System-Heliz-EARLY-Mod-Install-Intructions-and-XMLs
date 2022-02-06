@@ -45,7 +45,7 @@ to the root directory of your server. Copy the key from the mods key folder to y
 so that your server will load @RedFalcon Flight System Heliz mod on startup. (On Nitrado and some other DayZ Server Providers you don't have access to the batch file,
 instead you will find an "Additional mods" setting in the settings section of your servers web interface, add @RedFalcon Flight System Heliz there.)
 
-Click the "Code" button and "Download Zip" on the Github Repository and extract the files on your local PC for access.
+Click the "Code" button and "Download Zip" on the Github Repository and extract the files on your local PC for access. All the xml snippets you need are within this readme.
 
 Stop your server using it's web control panel.
 
